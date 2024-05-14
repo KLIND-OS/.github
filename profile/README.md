@@ -2,6 +2,7 @@
 KLIND OS je Arch Linux distribuce s GUI napsaným v JavaScriptu.
 
 Webová stránka: [klindos.jzitnik.dev](https://klindos.jzitnik.dev)
+Dokumentace: [docs.klindos.jzitnik.dev](https://docs.klindos.jzitnik.dev)
 
 # Repozitáře
 
@@ -33,3 +34,15 @@ Webová stránka KLIND OS je vytvořena v NextJS.
 Program na instalaci KLIND OS Developers.
 
 [Zobrazit repozitář](https://github.com/KLIND-OS/Dev)
+
+## Dokumentace
+
+Zdrojový kód pro dokumentaci KLIND OS.
+
+[Zobrazit repozitář](https://github.com/KLIND-OS/Docs)
+
+## Packager
+
+Zdrojový kód pro program na compilaci third-party aplikací pro KLIND OS.
+
+[Zobrazit repozitář](https://github.com/KLIND-OS/Packager)
