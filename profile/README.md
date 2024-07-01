@@ -46,3 +46,9 @@ Zdrojový kód pro dokumentaci KLIND OS.
 Zdrojový kód pro program na compilaci third-party aplikací pro KLIND OS.
 
 [Zobrazit repozitář](https://github.com/KLIND-OS/Packager)
+
+## Apps
+
+Zdrojové kódy nějakých užitečných aplikací pro KLIND OS.
+
+[Zobrazit repozitář](https://github.com/KLIND-OS/Apps)
