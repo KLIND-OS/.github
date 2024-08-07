@@ -1,54 +1,54 @@
 # KLIND OS
-KLIND OS je Arch Linux distribuce s GUI napsaným v JavaScriptu.
+KLIND OS is a Arch Linux distribution with GUI that is written in JavaScript.
 
-Webová stránka: [klindos.jzitnik.dev](https://klindos.jzitnik.dev)
-Dokumentace: [docs.klindos.jzitnik.dev](https://docs.klindos.jzitnik.dev)
+Website: [klindos.jzitnik.dev](https://klindos.jzitnik.dev)
+Documentation: [docs.klindos.jzitnik.dev](https://docs.klindos.jzitnik.dev)
 
-# Repozitáře
+# Repositories
 
-## ISO instalační soubor
-Instalační disk je ISO soubor který obsahuje instalační script pro KLIND OS na Arch Linuxu.
+## ISO file
+Installation drive is a ISO file that contains installation script for KLIND OS.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/ISO)
+[Show repository](https://github.com/KLIND-OS/ISO)
 
 ## Client
 
-Client je program který spouší KLIND OS (jako webová stránka) v programu. Client je postavený v electronu.
+Client is a program that runs KLIND OS (as a website) as a program. Client is built with Electron.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Client)
+[Show repository](https://github.com/KLIND-OS/Client)
 
 ## Server
 
-Server který se používá pro posílání souborů clientovi. Používá se protokol http na localhostu na portu 10000. V tomto repozitáři je hlavní kód KLIND OS.
+Server contains most of the GUI code. It is plain HTML, CSS, JS website that is then ran by the Client. This runs internally on port 10000.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Server)
+[Show repository](https://github.com/KLIND-OS/Server)
 
-## Webová stránka
+## Website
 
-Webová stránka KLIND OS je vytvořena v NextJS.
+KLIND OS website built with Hugo.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Website)
+[Show repository](https://github.com/KLIND-OS/Website)
 
 ## Developers installer
 
-Program na instalaci KLIND OS Developers.
+Program for installing KLIND OS Developers.
 
 [Zobrazit repozitář](https://github.com/KLIND-OS/Dev)
 
-## Dokumentace
+## Documentation
 
-Zdrojový kód pro dokumentaci KLIND OS.
+Source code for KLIND OS documentation.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Docs)
+[Show repository](https://github.com/KLIND-OS/Docs)
 
 ## Packager
 
-Zdrojový kód pro program na compilaci third-party aplikací pro KLIND OS.
+Source code for program for compiling third-party applications for KLIND OS.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Packager)
+[Show repository](https://github.com/KLIND-OS/Packager)
 
 ## Apps
 
-Zdrojové kódy nějakých užitečných aplikací pro KLIND OS.
+Source codes for some external apps for KLIND OS.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Apps)
+[Show repository](https://github.com/KLIND-OS/Apps)
