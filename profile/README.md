@@ -33,7 +33,7 @@ KLIND OS website built with Hugo.
 
 Program for installing KLIND OS Developers.
 
-[Zobrazit repozitář](https://github.com/KLIND-OS/Dev)
+[Show repository](https://github.com/KLIND-OS/Dev)
 
 ## Documentation
 
